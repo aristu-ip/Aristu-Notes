@@ -18,7 +18,6 @@ Monday 19/07/2021 08:26
 		* Kant interpreted Hume as someone who (naively) thinks appearances & things in themselves are the same
 		* He saw Hume as some trascendental realist who became empirical idealist (one who "accepts the transcendental realist’s standard of truth as the correspondence of appearances with things-inthemselves, and then doubts whether it is possible to satisfy such a standard")
 		* What is the significance of this? 
-		{{.\pasted_image.png?width=393}}
 	* Kant's limited reading of Hume's skepticism
 		* "Kant writes as if Hume’s skepticism were essentially restricted to his doubts about the principle of causality."
 		* Kant agreed that causality cannot be derived from experience, but he also argued further that it is also impossible for other a priori concept such as substance
