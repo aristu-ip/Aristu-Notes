@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-20T11:55:37+07:00
+
+====== 1. Absolute and Relational Theories of Space ======
+Created Tuesday 20 July 2021
+
+* 1768
+* Leibniz -> Newtonian -> Murky
+	* Some ppl say Kant abandoned it, some as transitory state, etc
+* Buroker's arguments:
+	* reject the relational theory of space
+	* repudiate the epistemology of Leibniz
+* Absolute space
+	* Immutable, unmovable, absolutely indifferent to all matter
+	* Infinite and uniform (not in the sense of homogeniety but in the sense that it has no structure which infuences bodies at all)
+	* Absolute & Relative motion
+		* We can't sense absolute motion though
+		* How to differentiate between true/absolute motion & relative/apparent motion?
+			* __properties, causes (useless)__
+			* __effects (only accelaration)__
+				* Newton's bucket arguments
+					* 4 stages
+						* 1st stage: bucket moves, water doesn't //(at moves relatively)//
+						* 2nd stage: bucket & water moves //(at rest relatively)//, water concaved
+						* 3rd stage: bucket stopped, water moves, still concave //(at moves relatively)//
+						* 4th stage: all stops //(at rest relatively)//, water returns to normal 
+					* What makes water concaved in stage 2 & 3?
+						* Can't be relative motion because no such motion in stage 2
+						* But it must have real cause!
+						* The only alternative is absolute motion of the water
+					* Inconsistency with second law of motion
+						* Forces are proportional to the acceleration, not motion
+						* Hence, uniform motion in absolute space wouldn't cause forces
+* Relational Space
+	* Berkeley: ideas of space/motion should be defined by reference to particular sensible objects, since all meaningful ideas are derived from the perceptions of sensible qualities
+	* Three idea
+		* Newton's absolute space stands for nothing
+			* No genuine qualities, just privations os sensible objects' attributes
+		* We can't even represent absolute space
+		* What we have is sense of pure (not absolute) space
+	* Motion is just relation
+	* Two conditions for motion
+		* Changing relative positions
+		* Forces to the subject

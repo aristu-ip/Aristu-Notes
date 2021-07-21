@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T07:52:09+07:00
+
+====== 5. Skeptical Ambivalence ======
+Created Monday 19 July 2021
+19/07/2021 08:02:01
+
+* Kant's 1760s-1770s lectures show his ambivalent skeptical attitude towards idealism
+* He attempts new tactics, but he also at times stressed that they had to be rejected not on theoritical grounds, rather on moral ones
+* //Metaphysik Herder//
+	* Kant actually defended Berkeley against common objections
+	* He argued it's impossible to refute him on logical grounds
+	* Impossibility of refuting egoism: our representations is equally probable to arise from imagination
+* This shows Kant's declining confidence in Reason (departing from his most Rationalist works //Nova dilucidatio// and //Inaugural Dissertation//) in mid 60s-70s
+* That said, he never really abandoned it completely either
+* //Träume einers Geistersehers (1766)//
+	* Impossibility of affirming certain existence without evidence from experience
+		* Reason is tools to see logical relations between propositions
+		* Not determening what exist
+	* Necessary to differentiate between logical & real grounds of things
+		* Real: experience
+		* Logical: analysis of subject
+	* **Conclusion**:
+		* It is impossible to disprove idealism because it's not determined by experience
+		* It is impossible to demonstrate that our representations come from external cause
+* **Apparent contradictions**
+	* If this reservations existed why Critical Kant affirmed things-in-themselves or rather attempt to refute idealism?
+	* Kant's reservation was against the dogmatic way of affirming reality of things-in-themselves
+		* Hence Critical Kant is more transcendental: only showing hoe one form of experience involves another
+	* Interpertation of //Kritik// in stronger sense would yield inconsistencies
+* Kant continues opposing idealism (even though also abandoning direct realism) by stressing //the coherence of our representations//
+19/07/2021 08:25:19
+
+

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T11:02:49+07:00
+
+====== 4. Empirical Realism in the Aesthetic ======
+Created Monday 19/07/2021 11:03
+
+* In short, main advantage of transcendental idealism is empirical realism
+* What is empirical realism?
+
+Monday 19/07/2021 11:18
+
+* Space is transcendetally ideal, nessecary conditions for experience
+	* Empirical reality of space means that appearing in space is universal and necessary property of all objects
+	* Not abstraction from experience
+	* Not illusion/fiction of the understanding
+* Logical
+	* conditions under which judgements about space are true
+	* Empirical reality of space means that proposition 'all things are in space' is universally true
+	* "all empirical judgments about specific things in space retain their truth"
+* Mathematical/geometrical
+	* Axioms of geometry are necessary true for appearances
+	* Necessary conditions for geometrical thoughts
+
+* DIscussion on traditional distinction of primary/secondary qualities
+	* Objectivity of primary qualities is their conformity to the universal and necessary structure of space in general

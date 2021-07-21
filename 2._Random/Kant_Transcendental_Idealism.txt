@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T09:52:27+07:00
+
+====== Kant Transcendental Idealism ======
+Created Monday 19 July 2021
+Monday 19/07/2021 09:52
+https://plato.stanford.edu/entries/kant-transcendental-idealism/
+
+* The issues
+* {{.\pasted_image.png}}\
+* **Transcendental Idealism **vs **Transcendental Realism**
+	* **Transcendental Realism: **the view that obects in space and time exist indenpendently of our experience
+		* Common prejudice
+		* Common but fallacious presupposition
+* **Empirical Idealism**
+	* Assumes proper reality of //space outside us, b//ut denies our immediate knowledge of it
+	* "the view that all we know immediately (non-inferentially) is the existence of our own minds and our temporally ordered mental states, while we can only infer the existence of objects “outside” us in space."
+	* Because attributing effect to unknown cause is uncertain, this concludes in we cannot know objects outside us //in space//
+	* **Dogmatic Idealism**
+		* Objects in space do not exist
+	* **Problematic Idealism**
+		* Objects in space may exist, but we can't be sure
+Monday 19/07/2021 10:12

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T10:42:40+07:00
+
+====== 3. Transcendental versus Empirical Idealism ======
+Created Monday 19/07/2021 10:42
+
+* Not the case: upon wider context, Kant is criticizing subjectivism
+* **Empirical (Material) Idealism**
+	* "existence of objects in space outside us is either (a) doubtful and indemonstrable (Descartes) or (b) false and impossible (Leibniz & Berkeley)"
+	* "Empirical" because of denying the reality of //empirical// world
+* //Kant’s distinction between two senses in which an object exists outside us//
+	* Transcendental sense (beyond consciousness)
+	* Empirical sense (in space) -> empirical idealism denies this
+	* **Advantages**
+		* Things in space are not illusion/false (dogmatic idealism)
+		* Things in space are not perhaps an illusion/false (problematic idealism)/phenomenalism
+		* Things in space doesn't exist in transcendental sense (transcendental realism)
+			* "demands the impossible: proof of transcendental externality"
+	* Kant's theory accomodates illusion vs real in empirical sense
+* "empirical idealist shares a fatal premise with the transcendental realist: that to know something in space outside us //we must know whether our representations correspond with things-in-themselves//"
+	* But we can't do this, since in order to compare tit-rep, we need to go beyond our own representations which is impossible
+Monday 19/07/2021 11:00
+
+
+

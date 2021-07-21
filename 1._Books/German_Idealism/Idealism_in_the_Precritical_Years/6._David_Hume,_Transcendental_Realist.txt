@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T08:25:39+07:00
+
+====== 6. David Hume, Transcendental Realist ======
+Created Monday 19 July 2021
+Monday 19/07/2021 08:26
+
+* It is easy to conclude Kant's silent decade as struggle against Hume's skeptical idealism
+* But, if it was so, why Kant always mentioned Descartes, not Hume, as the skeptical idealist?
+* The simple answer is Kant doesn't think Hume is a skeptical idealist
+* **Why?**
+	* What Kant meant by skeptical idealism
+		* "someone who doubts whether our representations correspond with their objects"
+		* Since it is also possible our source of representations is our own imagination, not real object, we have reason to mistrust our own representations
+		* "the skeptical idealist does not doubt the principle of causality in general"
+	* Kant saw Hume as //transcendental realist//
+		* Kant interpreted Hume as someone who (naively) thinks appearances & things in themselves are the same
+		* He saw Hume as some trascendental realist who became empirical idealist (one who "accepts the transcendental realist’s standard of truth as the correspondence of appearances with things-inthemselves, and then doubts whether it is possible to satisfy such a standard")
+		* What is the significance of this? 
+		{{.\pasted_image.png?width=393}}
+	* Kant's limited reading of Hume's skepticism
+		* "Kant writes as if Hume’s skepticism were essentially restricted to his doubts about the principle of causality."
+		* Kant agreed that causality cannot be derived from experience, but he also argued further that it is also impossible for other a priori concept such as substance
+* Kant's interpreation appear at odds with Hume's //Treatise// but not necessarily with Hume's //Ennquiry//
+* **Kant's oddity with //Treatise//**
+	* Hume defended skepticism regarding the senses
+	* Hume extended his skepticism to other concepts (including substances)
+	* Hume maintained geometry derived from experience
+* Kant did not know the Treatise, **but "**Kant most likely knew one part of the Treatise after all: the final chapter of Book I" translated by Hamann in 1771
+	* That said, no evidence of his reading
+	* Even if he read, he probably not effected by it
+* **Consequences for first //Kritik//**
+	* Many scholars interpret Transcendental Deduction as response to Hume's skepticism
+	* Kant's target is Descartes
+
+Monday 19/07/2021 08:54

@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-20T11:42:16+07:00
+
+====== 0. Introduction ======
+Created Tuesday 20 July 2021
+
+* Kant's apparent contradictions in his conclusion on incongruent counterparts
+* "Kant was completely justified in concluding that the s**ensibility is a source of knowledge distinct from the understanding**, and that **sensible objects do not represent in any way things in themselves**"
+* //Issues://
+	* issues concerning the nature of space
+		* Ch. I - on absolute vs. relational theory of space
+		* Lawrence Sklar's //Space, Time and Space-Time//
+	* Leibniz's philosophy
+		* Ch 2 - Leibniz's space and its connection to his theories
+		* Kant pre-Critical writings on this
+	* Incoungruent-Counterparts Arguments
+		* Ch. 3-5
+		* Ch. 3 - First arguments from //Regions in Space//
+			* why Kant thought that facts about the topology of space were relevant to the absolute-relational dispute
+			* comment on recent criticisms of the argument by Lawrence Sklar and John Earman
+			* Kant was beginning to think about the broader implications of incongruent counterparts for the epistemology of space
+		* Ch. 4 -
+			* discussion of the Critical theory of sensibility
+			* theory that the sensibility and the intellect are distinct and irreducible sources of knowledge
+			* the analysis of space as the pure form of sensibility
+			* Critical versions of the incongruent counterparts writings support Kant's Critical analysis of the sensibility
+		* Ch. 5
+			* how the same arguments also support the transcendental ideality of space
+			* the implications of incongruent counterparts for other aspects of Kant's Critical philosophy
+	* Clearing up confusions Kant-absolute-relational
+		* Ch. 6

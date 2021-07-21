@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T10:16:01+07:00
+
+====== 1. The Case for Subject ======
+Created Monday 19 July 2021
+Monday 19/07/2021 10:16
+
+* Kant's struggle against idealism seem to be in vain: nobody understands him, most of his contemporary sees his work as another kind of subjectivism, culmination of Berkeleyan idealism
+* Is the //implication// that Kant denies reality and only can be sure of his imediate consciousness true?
+* People basis for skeptical idealistic interpretation: Kant insists we know only appearances, and he also seems to euqate appearances with representations, so we know only representations
+	* It ignores many passages where Kant says appearances are of something, they have objects (things-in-themselves)
+	* Appearences - things-in-themselves are distinctions of two aspect of the same entitity
+	* "Appearances refer to that thing insofar as we know it, or insofar as it conforms to the conditions of our experience of it; and the thing-in-itself refers to that thing insofar as we do not know it, as it exists independent of these conditions"
+* Kant's comteporaries know this too, they just affirm this position implies skepticism
+	* how is it possible to know that things-in-themselves exist when Kant's own critical ground doesn't allow knowledge of it since there is no experience of it
+Monday 19/07/2021 10:30

@@ -1,2 +1,2 @@
-# Aristu-Notes
+# Notes
  
