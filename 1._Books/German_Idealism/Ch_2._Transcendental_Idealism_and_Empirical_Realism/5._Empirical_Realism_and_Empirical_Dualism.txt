@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T15:19:19+07:00
+
+====== 5. Empirical Realism and Empirical Dualism ======
+Created Monday 19 July 2021
+
+Monday 19/07/2021 15:19
+
+* Recap on empirical rality of space
+	* space is universal and necessary form of experience
+	* sufficient to preserve the truth of empirical judgments about space
+	* necessary to maintain the truth of all mathematical judgements about space
+	* and this universality & necessity is formal characteristics
+	* **however**, there is another reading, stronger one
+		* two level of affection:
+			* things-in-themselves -> transcendental ego
+			* empirical objects -> empirical ego
+		* above point meant that empirical objects are entirely given hence independent of empirical ego
+			* objects exist independently of empirical consciousness
+		* //__empirical dualism__//
+		* **problems**
+			* contradictions with Aesthetic, space and time is still connected to empirical consciousness
+			* replication of appearances
+	* what kant mean by empirical dualism
+		* there is objects outside me
+		* heterogeneity between the representations of inner and outer sense
+		* **however,** this doesn't mean that there is object independent of empirical consciousness, it just meant the appearances inside and outside are different

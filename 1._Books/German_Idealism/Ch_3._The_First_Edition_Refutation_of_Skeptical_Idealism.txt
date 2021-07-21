@@ -1,0 +1,75 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-21T14:46:57+07:00
+
+====== Ch 3. The First Edition Refutation of Skeptical Idealism ======
+Created Wednesday 21 July 2021
+
+1. **__The Priority of Skeptical Idealism__**
+
+* Skeptical idealist: Descartes
+* Dogmatic: Leibniz
+* Both, but more on skeptical/problematic idealist in the first edition
+* Kant demote Dogmatic idealism because of its mystic vibes and value skeptical idealist more because it demmand more proof
+
+2. **__The Critique of the Fourth Paralogism__**
+* Kant omitted A 367-380 in the second edition
+* Against Descartes, mainly, the doctrine that //we have immediate knowledge of our own inner states//
+* Kant's digest of SI
+	* that whose existence can be inferred only as a cause of given perceptions has only a doubtful existence
+	* the existence of outer appearances cannot be immediately perceived, but can be inferred only as the cause of given perceptions
+	* **ergo,** the existence of all objects of outer sense is doubtful
+* //sophisma figurae dictionis (the fallacy of ambiguous middle)//
+	* premises are correct, but conclusion valid only because the middle term is ambious
+	* the ambiguous middle term is: outer appearence
+		* which construed in both empirical and transcendental sense
+* Kant accepts first premise, but questions second premise
+	* it is true if "outer" here meant in transcendental sense
+	* it is false if "outer" here meant in empirical way
+		* remember empirical object are part of consciousness
+		* "the reality of outer appearances will be given with the representations themselves"
+* In the end, what's wrong with SI is faulty premise of transcendental realism
+--------------------
+
+3. **__The Proof of the External World__**
+* Premises
+	* It is certain that I have representations
+	* External objects consist only in representations
+	* **Ergo**, It is certain external objects exist
+* The point being //inner sense-outer sense// is the same
+* "The immediate testimony of self-consciousness"
+	* Though problematic because we can have illusion
+	* The reply to this is “Whatever is connected with a perception according to empirical laws is actual"
+		* Transcendental idealist only need to compare appearances to appearances
+		* Unlike transcendental realist
+--------------------
+
+4. **__A Cartesian Reply__**
+* //__A cartesian__// would say
+	* The question is not wether we have //representations//, but why there is three-dimensional objects existing //independent //of those representations
+	* Kant solution seems to forfeit the independent reality of objects
+* //Kant's// reply would be
+	* Cartesian demand for independent reality rest upon false presupotition
+	* Comparison between appearances is enough for determining 'reality' vs. illusion
+* //__A cartesian__// would reply
+	* We need more than internal coherence
+	* We need correspondence
+	* Even if we accept Kantian categories, we still can't know wether this categories itself not a kind of illusion by some genium malignum 
+* //Kant// would concede, yes, and say
+	* But, even if the structure doesn't correspond to things-in-themselves, it doesn't mean that all propositions inside the structure are false
+	* Cartesian doubt doesn't matter
+* **In short//, //**//Cartesian //confuses two level of discourse, empirical and transcendental
+--------------------
+
+5. **__Appearances and Spatiality__**
+* "how is it possible for transcendental idealism to explain the empirical reality of things in space if it identifies these things with representations, which cannot be threedimensional?"
+* "because things in space are threedimensional, whereas ideas or representations have no length, breadth, or depth ... Must we then conclude that spatiality is an illusion after all?"
+* **To what does Kant ascribe spatiality?**
+* Distinguish two aspects of representations: //state //and //object//
+	* But what is this //object//? For it it's mental, it can't be 3d
+* Distinguish two senses - empirical & transcendental - of apearance 
+
+
+
+
+

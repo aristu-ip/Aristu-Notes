@@ -6,4 +6,53 @@ Creation-Date: 2021-07-20T14:44:51+07:00
 Created Tuesday 20 July 2021
 
 
+* Leibniz background
+	* All things in universe is composed of simple //monads// (the only 'real' things) 
+		* Its simplicity implies its nonspatio-temporality
+		* Intelligible entities, object of thoughts, noumenal entities
+	* Physical objects is phenomenal manifestations
+	* Reversing empiricist theory of ideas
+		* Sense-perception is but a confused mode of intellection
+* Leibniz's Relational Theory
+	* Newton's space is unitellegible
+		* N see space as non-substance (because no dynamical relations to one another) with properties (e.g. extension), but all properties are attached to substances
+		* N's space as //infinite set of indistinguishable math points// is in violation of Identity of Indiscernibles
+	* Space is but //set of all possible positions objects can occupy relative to one another//
+		* It differs with Newton in that the possiblity of position presupposes actual objects
+		* Hence empty space is possible, but Leibniz rejects empty space because of Principle of Plenitude
+	* Confusion 
+		* Newton's inconsistency
+			* N considers change in dynamical state as criterion for change in real state, unclear relation though
+			* All absolute motion should be correlated with dynamical change, but N law of motions associate force with accelaration only
+		* Berkeley and Mach take different approach to Newton
+			* Berkeley: D & K is independent but both necessary for motion, but force is still absolute (?)
+			* Mach: collapsing both concept, relativising force & motion
+		* Leibniz retains Newton's inconsistency
+* Leibniz Metaphysics & Epistemology of Space
+	* Monads have qualities
+		* Changing states & The law of change
+		* Concept of monad
+	* Monads expressing the world
+	* the logical priority of non-relational to relational properties
+	* Hiearchy of monads
+		* Different level of //distinctness// in consciousness
+		* Perception & concept differ only by their degree of consciousness (transmitted to Kant)
+	* The doctrine of 'well-founded phenomena'
+		* Reality is the result of confused perception
+		* Objective vs Subjective aspect
+	* All knowledges begin with clear/general ideas
+	* Space is //ideal//
+		* Two process, extending the object & producing space
+	* Recap
+		* Berkeley, Mach, & Leibniz agree that
+			* physical objects are independent and prior of space
+			* absolute motion without relative motion is unintelligible
+		* But, Leibniz goes beyond
+			* space as ideal, (incomplete) representation of mind-independent substances
+* Kant's Early Leibnizian Views
+	* //Thoughts on the True Estimation of Living Forces (1747)//
+		* Relational analysis of space
+		* Answering why space is in three dimension
+	* //New Elucidation of the First Principles of Metaphysical Knowledge (1755)//
+	* //Universal Natural History and Theory of the Heavens//
 

@@ -2,5 +2,5 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2021-07-19T10:15:25+07:00
 
-====== Transcendental Idealism and Empirical Realism ======
+====== Ch 2. Transcendental Idealism and Empirical Realism ======
 Created Monday 19 July 2021
